@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/tndyd83/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tndyd83)](https://solved.ac/tndyd83/)
