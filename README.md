@@ -8,5 +8,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=chinoel&theme=dark&locale=ko&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tndyd83)](https://solved.ac/tndyd83/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chinoel)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tndyd83)](https://solved.ac/tndyd83/)
