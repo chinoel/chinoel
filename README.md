@@ -56,6 +56,7 @@ Status Symbols
 - 3월의 신규 활동은 없었습니다
 ## 🌱 2025년 2월
 $ \textcolor{blue}{\text{DEEPDIVE 백엔드 (국비 과정)}} $
+### {\textsf{\color{green}Green}}$
 - 📅 기간 : 2025.02.25 ~ 2025.09.15
 - 🎯 주관 : Goorm
 - 📝 내용 : Srping 백엔드 역량 강화
