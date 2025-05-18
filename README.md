@@ -25,11 +25,11 @@ Status Symbols
 # 📋 Study Records
 ## 🌱 2025년 6월
 ## 🌱 2025년 5월
-### 🔄 <span style="color:#50bcdf"> [certificate] 정보처리기사 필기</span>
+### ✅ <span style="color:#00ff80"> [certificate] 정보처리기사 필기</span>
+- ⭐ 결과 : 합격!
+### 🔄 <span style="color:#50bcdf"> [certificate] TOPCIT</span>
 - ⭐ 결과 : 진행 전
-### ⏳ <span style="color:#f7ddbe"> [certificate] TOPCIT</span>
-- ⭐ 결과 : 진행 전
-### ⏳ <span style="color:#f7ddbe"> [Competitions] 2025 AWS X CODETREE PROGRAMMING CONTEST</span>
+### 🔄 <span style="color:#50bcdf"> [Competitions] 2025 AWS X CODETREE PROGRAMMING CONTEST</span>
 - 📝 내용 : 알고리즘 경진대회 [본선]
 - ⭐ 결과 : 진행 전
 ### ⏳ <span style="color:#f7ddbe"> [certificate] SQLD</span>
