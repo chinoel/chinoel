@@ -23,17 +23,20 @@ Status Symbols
 -->
 
 # 📋 Study Records
+## 🌱 2025년 7월
+### ⏳ <span style="color:#f7ddbe"> [certificate] 정보처리기사 실기</span>
+- ✴ 7월 중 진행 예정
 ## 🌱 2025년 6월
 ## 🌱 2025년 5월
 ### ✅ <span style="color:#00ff80"> [certificate] 정보처리기사 필기</span>
 - ⭐ 결과 : 합격!
 ### 🔄 <span style="color:#50bcdf"> [certificate] TOPCIT</span>
-- ⭐ 결과 : 진행 전
+- ✴ 결과 : 진행 전
 ### 🔄 <span style="color:#50bcdf"> [Competitions] 2025 AWS X CODETREE PROGRAMMING CONTEST</span>
 - 📝 내용 : 알고리즘 경진대회 [본선]
-- ⭐ 결과 : 진행 전
+- ✳ 결과 : 진행 전
 ### ⏳ <span style="color:#f7ddbe"> [certificate] SQLD</span>
-- ⭐ 결과 : 진행 전
+- ✳ 결과 : 진행 전
 ### ⏳ <span style="color:#f7ddbe"> [교육] 인프런 워밍업 클럽 스터디 4기 - DevOps (쿠버네티스)</span>
 - 📅 기간 : 2025.05.23 ~ 2025.06.27
 - 🎯 주관 : 인프런
